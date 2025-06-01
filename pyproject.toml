@@ -8,4 +8,6 @@ dependencies = [
     "ipykernel>=6.29.5",
     "lxml>=5.4.0",
     "matplotlib>=3.10.3",
+    "shapely>=2.1.1",
+    "svgpathtools>=1.7.1",
 ]
